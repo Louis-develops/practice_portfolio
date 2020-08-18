@@ -1,0 +1,14 @@
+{
+  "name": "portfolio_project",
+  "version": "1.0.0",
+  "description": "Portfolio example website",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css -r"
+  },
+  "author": "Louis Sutherland",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
